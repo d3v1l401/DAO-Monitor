@@ -10,7 +10,7 @@ package has been delivered, by checking every minute.
 
 Put it wherever you want, but remember to create the "tracks.txt" file in the same location of the executable and put a tracking ID for each line.
 
-You can also put it to start with Windows' startup, so you don't have to execute it every time, if the list is empty the software will automatically quit.
+You can also put it to start with Windows' startup, so you don't have to execute it every time, if the list is empty the software will hang and wait for a manual reload (right-click the icon and click "Reload").
 
 # Credits
 
